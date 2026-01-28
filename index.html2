@@ -1,0 +1,56 @@
+<!-- ABOUT ME / RESUME PAGE -->
+<div id="about" class="page">
+    <button class="back-button" onclick="navigate('home')">← Back to Home</button>
+    <h2 class="page-title">About Me</h2>
+    <div class="about-content">
+        <p>I’m a creative with a background in fashion, digital design, and athletics, focused on social-first content and modern brand storytelling. I bring ideas to life through visuals and motion that resonate with audiences, drive engagement, and build community. My experience across digital campaigns, trend-led strategy, and cross-functional collaboration has shaped me into a versatile storyteller committed to creating bold, authentic work that strengthens brand presence. My lifelong background in running and experience in dynamic, fast-paced environments inform my ability to approach projects with discipline, creativity, and a strong understanding of what motivates audiences.</p>
+
+        <h3>Experience</h3>
+        
+        <p><strong>Associate</strong> – On | Oct. 2024 – Current</p>
+        <ul>
+            <li>Support brand storytelling by engaging customers and delivering an authentic, lifestyle-driven brand experience in-store</li>
+            <li>Blend product knowledge with visual merchandising to create inspiring displays aligned with brand identity and customer engagement</li>
+            <li>Execute promotional campaigns and in-store activations while maintaining high-quality brand standards</li>
+            <li>Collaborate with team members to ensure cohesive customer experiences and operational excellence</li>
+            <li>Provide insights from customer interactions to inform creative content and social storytelling opportunities</li>
+        </ul>
+
+        <p><strong>Project Manager</strong> – House of Ari Jogiel | Apr. 2024 – Oct. 2024</p>
+        <ul>
+            <li>Supported design projects from concept through production, ensuring timely delivery and alignment with brand vision</li>
+            <li>Blended creative direction, visuals, and trend research to craft designs and campaigns that resonated with target audiences</li>
+            <li>Contributed to cross-functional collaboration with designers, manufacturers, and clients to execute collections and marketing initiatives</li>
+            <li>Executed product launches and campaigns while maintaining brand consistency and visual standards</li>
+            <li>Innovated concepts that aligned with brand vision, current market trends, and audience engagement goals</li>
+        </ul>
+
+        <p><strong>Social Media & Design Director</strong> – True Jewel Cosmetic Center | Aug. 2023 – Apr. 2024</p>
+        <ul>
+            <li>Supported brand storytelling by creating social-first content across Instagram, TikTok, and other digital platforms</li>
+            <li>Blended photography, video, and graphic design to deliver cohesive campaigns that elevated the brand voice</li>
+            <li>Contributed to social strategy by analyzing audience insights and cultural trends to drive engagement</li>
+            <li>Executed digital campaigns and scheduled content to maintain a consistent and impactful presence</li>
+            <li>Monitored performance metrics to optimize campaigns and increase reach and engagement</li>
+        </ul>
+
+        <p><strong>Social Media & Design Coordinator</strong> – Albatross Winery | Aug. 2022 – Aug. 2023</p>
+        <ul>
+            <li>Managed Instagram presence and developed graphics, flyers, and event materials that highlighted the winery’s story and community focus</li>
+            <li>Designed promotional assets for events including tickets, signage, and digital content to elevate guest experience</li>
+            <li>Captured and edited photo and video content for use across digital platforms</li>
+            <li>Monitored performance metrics to understand audience engagement and inform creative direction</li>
+        </ul>
+
+        <p><strong>Freelance Graphic Designer</strong> – Various Clients | Aug. 2020 – Current</p>
+        <ul>
+            <li>Build brand identities through logo design, brand packages, and visuals tailored to each client’s voice and market</li>
+            <li>Create digital and print materials including event flyers, booklets, and social media posts to strengthen client presence</li>
+            <li>Produce platform-specific content for Instagram, TikTok, and websites to maximize reach and relevance</li>
+            <li>Collaborate with clients to translate ideas into creative concepts that balance aesthetics with strategy</li>
+            <li>Manage multiple projects simultaneously, delivering creative solutions under tight timelines</li>
+        </ul>
+
+        <p><strong>Social Media Marketing Intern</strong> – Fashion Packed Travel | Oct. 2020 – Apr. 2021</p>
+        <ul>
+            <li>Created Instagram posts and stories that captured brand identity, showcasing destinations and lifestyle moments in visually compelling ways</li>
